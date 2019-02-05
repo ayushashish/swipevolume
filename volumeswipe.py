@@ -1,6 +1,5 @@
 import cv2
 import pyautogui
-import time
 
 cscPath="closed_frontal_palm.xml"
 cpalm=cv2.CascadeClassifier(cscPath)
